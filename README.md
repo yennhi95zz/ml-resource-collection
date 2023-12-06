@@ -27,7 +27,7 @@ When beginning your Machine Learning journey, it's helpful to explore free onlin
 ## Getting Started
 If you're new to machine learning, start here to grasp the fundamentals.
 - [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning) - Coursera course by Andrew Ng.
-- [Machine Learning Yearning](http://www.mlyearning.org/) - A book by Andrew Ng on practical aspects of machine learning.
+- [Machine Learning Yearning](https://github.com/yennhi95zz/ml-resource-collection/tree/main/ML%20Book%20PDF) - A book by Andrew Ng on practical aspects of machine learning.
 
 ## Courses
 Explore in-depth courses covering a variety of machine learning topics.
@@ -54,7 +54,7 @@ Quick reference guides for various machine learning concepts and tools.
 
 - [Scikit-Learn Cheat Sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) - A decision tree to help you choose the right estimator for your machine learning task.
 
-Explore these cheat sheets to simplify your learning and application of key machine learning concepts and tools!
+Explore these cheat sheets to simplify your learning and application of key machine learning concepts and tools! Check out the Cheatsheet collection on the [GitHub Repo](https://github.com/yennhi95zz/machine-learning-cheatsheets) for more information.
 
 ## Tutorials
 Learn specific techniques and practices through hands-on tutorials.
